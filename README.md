@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Hamza
+# I'm Muhammad Hamza
 
 I'm an Embedded Design & Robotics Engineer passionate about electronics, microcontrollers, and developing secure IoT solutions.
 
