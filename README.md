@@ -219,10 +219,10 @@ Current focus areas include:
 # 🎓 Education
 
 **MS – AI & Autonomous Systems**
-NUST SEECS *(In Progress)*
+SEECS NUST 
 
 **BE – Avionics Engineering**
-The Superior University, Lahore *(2022)*
+The Superior University, Lahore 
 
 ---
 
