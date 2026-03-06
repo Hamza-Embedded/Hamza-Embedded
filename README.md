@@ -113,8 +113,6 @@ I have implemented and worked with various **embedded communication interfaces**
 
 ## Senior Embedded Systems Engineer
 
-**Revive Medical Technologies — Islamabad**
-*Aug 2025 – Nov 2025*
 
 * Developed embedded firmware for **FDA-approved medical devices**
 * Worked with **Nordic nRF microcontrollers**
@@ -124,9 +122,6 @@ I have implemented and worked with various **embedded communication interfaces**
 
 ## Embedded Systems Design Engineer
 
-**Pakistan Air Force – R&D Department**
-
-*March 2022 – March 2025*
 
 Responsibilities included:
 
