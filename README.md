@@ -1,31 +1,269 @@
-# I'm Muhammad Hamza
+# Muhammad Hamza
 
-I'm an Embedded Design & Robotics Engineer passionate about electronics, microcontrollers, and developing secure IoT solutions.
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=Embedded%20Systems%20Engineer%20%7C%20Robotics%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
-## 🔧 Skills
-- **Programming:** C, C++, Python
-- **Microcontrollers:** ESP32, STM32, Raspberry Pi
-- **Tools:** Altium, KiCad, CubeIDE, PyQt5
-- **IoT & Networking:** BLE, MQTT, Secure OTA updates
-- **Others:** Robotics, AI, CAN bus systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer;Avionics+Engineer;Robotics+Developer;AI+%26+Autonomous+Systems+Researcher"/>
+
+</div>
 
 ---
 
-## 📂 Projects
-- **Package Finder** – ESP32-based package tracking system with BLE/RF.
-- **Secure ESP32 IoT Firmware** – Cloud logging, key rotation, remote lockdown, OTA updates.
-- **PyQt5 System Monitor** – Real-time computer stats with graphs and gauges.
+# 👨‍💻 About Me
+
+I am an **Embedded Systems Engineer and Avionics Engineer** specializing in **embedded firmware development, robotics systems, and hardware design**.
+
+My work focuses on building **complete embedded solutions** from **circuit design and PCB development to firmware and system integration**.
+
+I am currently pursuing **MS in AI & Autonomous Systems at NUST**, where I aim to combine **Artificial Intelligence, Robotics, and Embedded Systems** to build intelligent autonomous machines.
 
 ---
 
-## 🌐 Connect with me
-- GitHub: [github.com/MuhammadHamza](https://github.com/MuhammadHamza)
-- LinkedIn: [linkedin.com/in/MuhammadHamza](https://linkedin.com/in/MuhammadHamza)
-- Email: `your.email@example.com`
+# 🤖 Robotics & Embedded Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Embedded_C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nordic_nRF-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EasyEDA-orange?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
-I aspire to be a computer enthusiast with the freedom to work, learn, and play while providing a comfortable life for my family.
+# 🧰 Embedded Hardware Stack
+
+### Microcontrollers
+
+* STM32
+* ESP32
+* Nordic nRF Series
+* PIC Microcontrollers
+
+### Embedded Platforms
+
+* Raspberry Pi
+* Arduino
+
+### Hardware Design
+
+* Circuit Design
+* PCB Layout & Fabrication
+* SMD/DIP Soldering
+* Hardware Debugging
+
+### Lab Equipment
+
+* Oscilloscope
+* Digital Multimeter
+* Power Supply
+
+---
+
+# 📡 Communication Protocols
+
+I have implemented and worked with various **embedded communication interfaces**:
+
+| Protocol | Application                        |
+| -------- | ---------------------------------- |
+| UART     | Microcontroller communication      |
+| I2C      | Sensor interfacing                 |
+| RS232    | Industrial communication           |
+| RS485    | Long-distance wired networking     |
+| TCP/IP   | Networked embedded systems         |
+| BLE      | Wireless short-range communication |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Engineering Experience
+
+## Senior Embedded Systems Engineer
+
+**Revive Medical Technologies — Islamabad**
+*Aug 2025 – Nov 2025*
+
+* Developed embedded firmware for **FDA-approved medical devices**
+* Worked with **Nordic nRF microcontrollers**
+* Designed reliable **wireless embedded systems**
+
+---
+
+## Embedded Systems Design Engineer
+
+**Pakistan Air Force – R&D Department**
+
+*March 2022 – March 2025*
+
+Responsibilities included:
+
+* Embedded firmware development
+* PCB schematic and layout design
+* Hardware testing and validation
+* Communication protocol implementation
+
+Technologies used:
+
+* STM32
+* ESP32
+* Arduino
+* Raspberry Pi
+
+Protocols:
+
+* RS232
+* RS485
+* UART
+* I2C
+* TCP/IP
+
+---
+
+# 🚀 Robotics Project
+
+## Multi-Purpose Surveillance Robot
+
+Developed a robotic platform with **three communication modes**:
+
+* BLE communication (50–80 m)
+* RS485 wired communication (150–200 m)
+* Long-range wireless communication (>700 m)
+
+Designed for operation in **signal-blocked environments**.
+
+---
+
+# 🔬 Research Work
+
+* PIC24F Microcontroller Educational Trainer
+* Satellite Attitude Simulink Model
+* Model Predictive Control for MIMO Systems
+
+---
+
+# 🛠 Additional Projects
+
+### Wireless Transmission System – PIC16F887
+
+Developed a **wireless sensor communication system** for remote data transmission.
+
+Tools Used:
+
+* PIC Microcontroller
+* MPLAB X IDE
+* Proteus Simulation
+
+---
+
+### IoT Smart Parking System
+
+Built an **IoT-based smart parking monitoring system** using:
+
+* NodeMCU
+* MQTT protocol
+* Cloud-based data monitoring
+
+---
+
+### Thermal Conductivity Tester
+
+Designed a system to measure insulation material conductivity using **PID temperature control**.
+
+Tools:
+
+* Arduino
+* Altium Designer
+
+---
+
+# 🧠 AI + Robotics Learning Roadmap
+
+Current focus areas include:
+
+* Robotics Control Systems
+* Autonomous Navigation
+* Embedded AI Systems
+* Computer Vision for Robotics
+* Edge AI Deployment
+
+---
+
+# 🎓 Education
+
+**MS – AI & Autonomous Systems**
+NUST SEECS *(In Progress)*
+
+**BE – Avionics Engineering**
+The Superior University, Lahore *(2022)*
+
+---
+
+# 📜 Certifications
+
+* Cisco – Introduction to Modern AI
+* Cisco – Introduction to Cybersecurity
+* Cisco – Computer Hardware Basics
+* MATLAB / Simulink for Beginners
+
+Google Professional Certificates:
+
+* Technical Support Fundamentals
+* Computer Networking
+* Operating Systems
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:Engrrhamza.21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadhamza21">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue"/>
+
+</div>
